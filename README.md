@@ -7,8 +7,8 @@
 
 ### Github Statistic
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaii&show_icons=true&locale=en&theme=algolia" alt="Bhayazeed" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wagi1922&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HaiqalRahman12&show_icons=true&locale=en&theme=algolia" alt="iqbal" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HaiqalRahman12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
