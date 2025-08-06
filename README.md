@@ -12,8 +12,7 @@
 </a>
 </p>
 
-### Reach me on
-- <a href="https://wagi1922-github-io.vercel.app/">My Web</a>
+
 
 
 <!--
